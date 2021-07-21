@@ -18,7 +18,8 @@ Check out my articles (🇬🇧):
 How to update counter caches in your Rails app without Active Record callbacks](https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks);
 - [Persisted queries in GraphQL:
 Slim down Apollo requests to your Ruby application](https://evilmartians.com/chronicles/persisted-queries-in-graphql-slim-down-apollo-requests-to-your-ruby-application);
-- [How to GraphQL with Ruby, Rails, Active Record, and no N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one).
+- [How to GraphQL with Ruby, Rails, Active Record, and no N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one);
+- [Custom “cops” for RuboCop: an emergency service for your Ruby code](https://evilmartians.com/chronicles/custom-cops-for-rubocop-an-emergency-service-for-your-codebase).
 
 ...and talks:
 
