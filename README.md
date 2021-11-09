@@ -2,7 +2,7 @@
 
 My name is Dmitry and I'm a backend engineer at [@evilmartians](https://github.com/evilmartians). 👽 Feel free to ask me questions about Ruby, Rails, PostgreSQL and GraphQL.
 
-I contribute to various open–source projects ([Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)) and maintain my own projects:
+I contribute to various open–source projects ([Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries:
 
 - [store_model](https://github.com/DmitryTsepelev/store_model) allows you to wrap JSON-backed DB columns with ActiveModel-like classes;
 - [ar_lazy_preload](https://github.com/DmitryTsepelev/ar_lazy_preload) brings association lazy load functionality to your Rails applications;
