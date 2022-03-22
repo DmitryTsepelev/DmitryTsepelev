@@ -25,7 +25,7 @@ Slim down Apollo requests to your Ruby application](https://evilmartians.com/chr
 ...and talks:
 
 - 🇬🇧 [Building high–performance GraphQL APIs ](https://www.youtube.com/watch?v=kIJdauCgBC8);
-- 🇬🇧 [Ruby Rogues Podcast 473](https://rubyrogues.com/481);
+- 🇬🇧 [Ruby Rogues Podcast 473](https://dev.to/rubyrogues/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev);
 - 🇬🇧 [Thinking in graphs](https://www.youtube.com/watch?v=CjOwKbf8L3I&feature=youtu.be&t=9615);
 - 🇷🇺 [graphql-ruby under hood](https://www.youtube.com/watch?v=_oPZgRB3Ovg);
 - 🇷🇺 Thinking in graphs ([v1](https://www.youtube.com/watch?v=xUrLslKdnr8), [v2](https://www.youtube.com/watch?v=VOvfHyyV5Bg&feature=youtu.be));
