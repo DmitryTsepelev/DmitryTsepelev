@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Dmitry and I'm a backend engineer at [@evilmartians](https://github.com/evilmartians). 👽 Feel free to ask me questions about Ruby, Rails, PostgreSQL and GraphQL.
+My name is Dmitry and I'm a backend engineer focusing on Ruby, Rails, PostgreSQL and GraphQL. At my spare time I'm trying to learn Haskell and functional approach in general. Don't hesistate to ask me questions 🙂
 
 I contribute to various open–source projects ([Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries:
 
