@@ -2,33 +2,21 @@
 
 My name is Dmitry and I'm a backend engineer focusing on Ruby, Rails, PostgreSQL and GraphQL. At my spare time I'm trying to learn Haskell and functional approach in general. Don't hesistate to ask me questions 🙂
 
-I contribute to various open–source projects ([Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries:
+I contribute to various open–source projects ([Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries — check them out pinned right below.
 
-- [store_model](https://github.com/DmitryTsepelev/store_model) allows you to wrap JSON-backed DB columns with ActiveModel-like classes;
-- [ar_lazy_preload](https://github.com/DmitryTsepelev/ar_lazy_preload) brings association lazy load functionality to your Rails applications;
-- [graphql-ruby-persisted_queries](https://github.com/DmitryTsepelev/graphql-ruby-persisted_queries) is the implementation of [persisted queries](https://github.com/apollographql/apollo-link-persisted-queries) for [graphql-ruby](https://github.com/rmosolgo/graphql-ruby);
-- [graphql-ruby-fragment_cache](https://github.com/DmitryTsepelev/graphql-ruby-fragment_cache) powers up [graphql-ruby](https://graphql-ruby.org) with the ability to cache response fragments;
-- [rubocop-graphql](https://github.com/DmitryTsepelev/rubocop-graphql) [rubocop](https://github.com/rubocop-hq/rubocop) extension for enforcing [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) best practices.
+Featured blog posts:
 
-Check out my articles (🇬🇧):
-
+- [Why Ruby has Symbols](https://dmitrytsepelev.dev/why-has-ruby-symbols);
+- [Understading why attr_accessor in Ruby is faster than a regular method](https://dmitrytsepelev.dev/attr-accessor-in-ruby);
+- [How to make Ruby interpreter run program written in a natural language](https://dmitrytsepelev.dev/natural-language-programming-with-ruby);
 - GraphQL on Rails tutorial: [Part 1](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query), [Part 2](https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data) and [Part 3](https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection);
-- [Wrapping JSON-based ActiveRecord attributes with classes](https://evilmartians.com/chronicles/wrapping-json-based-active-record-attributes-with-classes);
-- [Pulling the trigger:
-How to update counter caches in your Rails app without Active Record callbacks](https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks);
-- [Persisted queries in GraphQL:
-Slim down Apollo requests to your Ruby application](https://evilmartians.com/chronicles/persisted-queries-in-graphql-slim-down-apollo-requests-to-your-ruby-application);
 - [How to GraphQL with Ruby, Rails, Active Record, and no N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one);
-- [Custom “cops” for RuboCop: an emergency service for your Ruby code](https://evilmartians.com/chronicles/custom-cops-for-rubocop-an-emergency-service-for-your-codebase);
 - [One row, many threads: How to avoid database duplicates in Rails applications](https://evilmartians.com/chronicles/one-row-many-threads-how-to-avoid-database-duplicates-in-rails-applications).
 
 ...and talks:
 
-- 🇬🇧 [Building high–performance GraphQL APIs ](https://www.youtube.com/watch?v=kIJdauCgBC8);
+- 🇬🇧 [Building high–performance GraphQL APIs](https://www.youtube.com/watch?v=kIJdauCgBC8);
 - 🇬🇧 [Ruby Rogues Podcast 473](https://dev.to/rubyrogues/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev);
-- 🇬🇧 [Thinking in graphs](https://www.youtube.com/watch?v=CjOwKbf8L3I&feature=youtu.be&t=9615);
-- 🇷🇺 [graphql-ruby under hood](https://www.youtube.com/watch?v=_oPZgRB3Ovg);
-- 🇷🇺 Thinking in graphs ([v1](https://www.youtube.com/watch?v=xUrLslKdnr8), [v2](https://www.youtube.com/watch?v=VOvfHyyV5Bg&feature=youtu.be));
-- 🇷🇺 [Data mapping: the Rails way](https://www.youtube.com/watch?v=H3SafkpBQ_w&feature=youtu.be&t=2877).
+- 🇬🇧 [Thinking in graphs](https://www.youtube.com/watch?v=CjOwKbf8L3I&feature=youtu.be&t=9615).
 
 You can find me on [Twitter](https://twitter.com/dmitrytsepelev) and [LinkedIn](https://www.linkedin.com/in/dmitry-tsepelev-98029b83).
