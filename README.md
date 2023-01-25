@@ -15,8 +15,8 @@ Featured blog posts:
 
 ...and talks:
 
-- 🇬🇧 [Building high–performance GraphQL APIs](https://www.youtube.com/watch?v=kIJdauCgBC8);
-- 🇬🇧 [Ruby Rogues Podcast 473](https://dev.to/rubyrogues/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev);
-- 🇬🇧 [Thinking in graphs](https://www.youtube.com/watch?v=CjOwKbf8L3I&feature=youtu.be&t=9615).
+- [Building high–performance GraphQL APIs](https://www.youtube.com/watch?v=kIJdauCgBC8);
+- [Ruby Rogues Podcast 473](https://topenddevs.com/podcasts/ruby-rogues/episodes/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev);
+- [Thinking in graphs](https://www.youtube.com/watch?v=CjOwKbf8L3I&feature=youtu.be&t=9615).
 
 You can find me on [Twitter](https://twitter.com/dmitrytsepelev) and [LinkedIn](https://www.linkedin.com/in/dmitry-tsepelev-98029b83).
