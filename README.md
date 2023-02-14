@@ -10,7 +10,7 @@ Featured articles and conference talks:
 - 🗣️ [Building high–performance GraphQL APIs](https://www.youtube.com/watch?v=kIJdauCgBC8);
 - 📗 [Understading why attr_accessor in Ruby is faster than a regular method](https://dmitrytsepelev.dev/attr-accessor-in-ruby);
 - 📙 [How to make Ruby interpreter run program written in a natural language](https://dmitrytsepelev.dev/natural-language-programming-with-ruby);
-- 🎤 [Ruby Rogues Podcast 473](https://topenddevs.com/podcasts/ruby-rogues/episodes/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev);
+- 🎤 [Ruby Rogues Podcast 473]([https://topenddevs.com/podcasts/ruby-rogues/episodes/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev](https://topenddevs.com/podcasts/ruby-rogues/episodes/rr-473-graphql-doesn-t-need-to-be-hell-with-dmitry-tsepelev));
 - 📚 GraphQL on Rails tutorial: [Part 1](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query), [Part 2](https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data) and [Part 3](https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection);
 - 📘 [How to GraphQL with Ruby, Rails, Active Record, and no N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one);
 - 📔[One row, many threads: How to avoid database duplicates in Rails applications](https://evilmartians.com/chronicles/one-row-many-threads-how-to-avoid-database-duplicates-in-rails-applications);
