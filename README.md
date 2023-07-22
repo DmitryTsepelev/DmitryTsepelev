@@ -2,7 +2,7 @@
 
 My name is Dmitry and I'm a backend engineer focusing on Ruby, Rails, PostgreSQL and GraphQL. At my spare time I'm trying to learn Haskell and functional approach in general. Don't hesistate to ask me questions 🙂
 
-I contribute to various open–source projects ([Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [GitLab](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/merge_requests/95#note_736251081) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries — check them out pinned right below.
+I contribute to various open–source projects ([Ruby on Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [graphql-ruby](https://github.com/rmosolgo/graphql-ruby/pulls?q=is%3Apr+author%3ADmitryTsepelev+), [GitLab](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/merge_requests/95#note_736251081), [yarp](https://github.com/ruby/yarp/pulls?q=is%3Apr+is%3Aclosed+author%3ADmitryTsepelev) and [many more](https://github.com/pulls?q=is%3Apr+author%3ADmitryTsepelev+archived%3Afalse+is%3Apublic)). Also, I maintain my own libraries — check them out pinned right below.
 
 Featured articles and conference talks:
 
