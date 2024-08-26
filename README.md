@@ -16,3 +16,5 @@ Featured articles and conference talks:
 - 📔[One row, many threads: How to avoid database duplicates in Rails applications](https://evilmartians.com/chronicles/one-row-many-threads-how-to-avoid-database-duplicates-in-rails-applications).
 
 You can find me on [Twitter](https://twitter.com/dmitrytsepelev) and [LinkedIn](https://www.linkedin.com/in/dmitry-tsepelev-98029b83).
+
+You can support my open–source work [here](https://boosty.to/dmitry_tsepelev).
